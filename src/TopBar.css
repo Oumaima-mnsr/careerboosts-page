@@ -1,0 +1,15 @@
+.top-bar {
+    background: linear-gradient(90deg, #152B3A, #204E74); 
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    height: 64; ;
+}
+
+.logo img {
+    width: 144px; 
+    height: 33; 
+    border: 3.5px solid white;
+    border-radius: 15.3px;
+}
+
